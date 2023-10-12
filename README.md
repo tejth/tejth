@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ptejendra91@gmail.com**
 
-- ⚡ Fun fact **Love to Vibe Alone⭐**
+- ⚡**Love to Vibe Alone⭐**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
