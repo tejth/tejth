@@ -2,6 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Tejendra Pal Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<p>Helo, I'm just a simple guy who always love to spend most of the time with my family and learning new things to create a better version of myself. I am currently learning Backend Development after completing Frontend related stuff. 🖥Currently pursuing my Bachelor’s in Technology, Computer Science and Engineering at JECRC University.🔎Finding opportunity to work with an organization where I can learn new skills and increase my learning abilities and get more knowledge for the organizational goals as well as myself.Feel free to ping me on LinkedIn, always happy to help others and build more connections.</p>
+<br>
+<br>
+<br>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejth&label=Profile%20views&color=0e75b6&style=flat" alt="tejth" /> </p>
