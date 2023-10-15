@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Tejendra Pal Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<p>Helo, I'm just a simple guy who always love to spend most of the time with my family or plug in earbuds and listening to spiritual music. Always ready to learn new things from others to create a better version of myself. I am currently learning Backend Development after completing Frontend related stuff. 🖥Currently pursuing my Bachelor’s in Technology, Computer Science and Engineering at JECRC University.🔎Finding opportunity to work with an organization where I can learn new skills and increase my learning abilities and get more knowledge for the organizational goals as well as myself.Feel free to ping me on LinkedIn, always happy to help others and build more connections.</p>
+<p>Helo, I'm just a simple guy who loves to spend most of the time with my family or plug in earbuds and listening to spiritual music. Always ready to learn new things from others to create a better version of myself. I am currently learning Backend Development after completing Frontend related stuff. 🖥Currently pursuing my Bachelor’s in Technology, Computer Science and Engineering at JECRC University.🔎Finding opportunity to work with an organization where I can learn new skills and increase my learning abilities and get more knowledge for the organizational goals as well as myself.Feel free to ping me on LinkedIn, always happy to help others and build more connections.</p>
 <br>
 <br>
 <br>
