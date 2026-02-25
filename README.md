@@ -1,7 +1,7 @@
 <img align="center" width="100%" src="https://github.com/tejth/tejth/assets/110801292/fa611ec1-f861-4fb9-ba73-8ee0714ddac6">
 
 <h1 align="center">Hi 👋, I'm Tejendra Pal Singh</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 <p>Helo, I'm just a simple guy who loves to spend most of the time with my family or plug in earbuds and listening to spiritual music. Always ready to learn new things from others to create a better version of myself. I am currently learning Backend Development after completing Frontend related stuff. 🖥Currently pursuing my Bachelor’s in Technology, Computer Science and Engineering at JECRC University.🔎Finding opportunity to work with an organization where I can learn new skills and increase my learning abilities and get more knowledge for the organizational goals as well as myself.Feel free to ping me on LinkedIn, always happy to help others and build more connections.</p>
 <br>
 <br>
@@ -14,7 +14,7 @@
 
 
 
-- 🌱 I’m currently learning **React Native,Backend Development**
+- 🌱 I’m currently learning to build web apps **By integrating AI,ML with Full Stack MERN**
 
 - 👨‍💻 All of my projects are available at [https://tejth.github.io/](https://tejth.github.io/)
 
