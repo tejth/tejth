@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tejth.github.io/](https://tejth.github.io/)
 
-- 💬 Ask me about **Android , MERN**
+- 💬 Ask me about **AI-ML , MERN**
 
 - 📫 How to reach me **ptejendra91@gmail.com**
 
